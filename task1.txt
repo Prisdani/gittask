@@ -1,2 +1,3 @@
 This is my first task
 for checking git delete
+added new line for second commit
